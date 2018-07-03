@@ -1,3 +1,8 @@
+[![chatoper banner][co-banner-image]][co-url]
+
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/42217321-3d5e44f6-7ef7-11e8-94e7-1574bfa1dbb8.png
+[co-url]: https://www.chatopera.com
+
 # 中文人名语料库（Chinese-Names-Corpus）
 某业余项目的副产品。不定期更新。只删词，不加词。
 
